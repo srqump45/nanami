@@ -1,0 +1,45 @@
+.site-topbar {
+  position: relative;
+   z-index: 30;
+  height: 40px;
+  font-size: 12px;
+  background-color: #333;
+}
+
+.container {
+  width: 1226px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.site-topbar a {
+  color: #b0b0b0;
+  text-decoration: none;
+}
+
+.sep {
+  color: #424242;
+}
+
+.topbar-nav {
+  display: inline-block;
+  float: left;
+  height: 40px;
+  line-height: 40px;
+}
+
+.topbar-cart {
+  color: #b0b0b0;
+  float: right;
+  line-theight: 40px;
+  width: 120px;
+  margin-left: 15px;
+  background-color: 
+}
+
+.topbar-info {
+  display: inline-block;
+  float: right;
+  height: 40px;
+  line-height: 40px;
+}
